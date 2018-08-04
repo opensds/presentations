@@ -3,7 +3,7 @@
 This repo contains presentations for LC3 China 2018.
 
 ## Disaster Recovery and Data Protection for Kubernetes Persistent Volumes
-Xing Yang
+Presenter: Xing Yang
 
 http://sched.co/ER8i
 
