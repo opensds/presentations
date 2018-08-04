@@ -2,7 +2,8 @@
 
 This repo contains presentations for OSS Japan 2018.
 
-## Panel Discussion: The Journey To Cloud Native and the Underlying Storage Transformation
+## Presentations
+### Panel Discussion: The Journey To Cloud Native and the Underlying Storage Transformation
 Moderator: Steven Tan
 
 Panel: Kei Kusunoki, Yusuke Sato, and Xing Yang
