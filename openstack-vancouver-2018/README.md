@@ -1,4 +1,4 @@
-# OpenStack Summit Vancouver Presentations
+# OpenStack Summit Vancouver
 
 This repo contains presentations for OpenStack Summit Vancouver in 2018.
 
