@@ -7,7 +7,7 @@ Presenter: Xing Yang
 
 http://sched.co/ER8i
 
-## Using OpenSDSScale-Out Data Replication for Disaster Recovery Planning
+## Using OpenSDS Scale-Out Data Replication for Disaster Recovery Planning
 Presenter: Luwei He
 
 http://sched.co/ER97
