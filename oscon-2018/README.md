@@ -3,6 +3,6 @@
 This repo contains presentations for OSCon 2018 in Portland.
 
 ## Disaster Recovery and Data Protection for Kubernetes Persistent Volumes
-Xing Yang
+Presenter: Xing Yang
 
 https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/71093
